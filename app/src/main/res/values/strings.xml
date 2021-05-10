@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="Handsome">Dictionary</string>
+    <string name="Ok">Dictionary</string>
+    <string name="jus">Clear</string>
+    <string name="nurse">a person trained to care for the sick
+                        or infirm, especially in a hospital. </string>
+    <string name="building"> a usually roofed and walled structure
+    built for permanent use (as for a dwelling) </string>
+    <string name="business">a person\'s regular occupation, profession, or trade.</string>
+    <string name="free">not under the control or in the power of another; able to act or be done as one wishes.</string>
+    <string name="canal">an artificial waterway constructed to allow the passage of boats or ships inland or to convey water for irrigation.</string>
+    <string name="warning">We do not define that word yet.</string>
+    <string name="attention"></string>
+
+
+
+</resources>
